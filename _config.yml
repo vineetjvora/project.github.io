@@ -1,8 +1,8 @@
-title:            Site Title
+title:            Away From My Desk
 tagline:          A short tagline
 description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-site.com
+url:              http://alecpatton.github.io
 
 # Owner/author information
 owner:
