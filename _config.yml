@@ -2,7 +2,7 @@ title:            Away From My Desk
 tagline:          A short tagline
 description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url:              http://alecpatton.github.io
+url:              https://vineetjvora.github.io/project.github.io/
 
 # Owner/author information
 owner:
@@ -67,7 +67,7 @@ kramdown:
 prose:
   media: "images"
   rooturl: "_posts"
-  siteurl: "http://alecpatton.github.io/"
+  siteurl: "https://vineetjvora.github.io/project.github.io/"
   relativeLinks: "http://alecpatton.github.io/links.jsonp"
   site:
     tags: "http://alecpatton.github.io/tags.jsonp"
